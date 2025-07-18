@@ -1,7 +1,9 @@
 # Bruteforce-Tester
 It does what it's Title implies.
 Made to test HID emulating devices like the Flipper Zero or USB Rubber Ducky.
-
+____
+![Logo](logo.png)
+____
 ## Install:
   ### Clone the Github Repo:
     git clone https://github.com/thePortal362/Bruteforce-Tester
