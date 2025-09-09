@@ -11,3 +11,6 @@ ____
     cd Bruteforce-Tester
   ### Run Python Script:
     python main.py
+
+## Todo:
+[ ] -Add option for other password types
