@@ -13,4 +13,4 @@ ____
     python main.py
 
 ## Todo:
-[ ] -Add option for other password types
+### [ ] Add option for other password types
